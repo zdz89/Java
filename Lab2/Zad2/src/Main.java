@@ -11,11 +11,9 @@ public class Main {
     public static void main(String[] args)
     {
         MyLogger myLogger = new MyLogger("MyLogger.txt");
-        Logger logger = myLogger.logger;
 
         CyclingRace race = new CyclingRace();
         race.GetCyclists();
-        logger.info("Pobrano listę zawodników");
         race.StartRace();
     }
 }

@@ -17,13 +17,12 @@ public class CyclingRace {
 
     void StartRace() {
         logger.info("Wyścig rozpoczęty");
-
-         execService = Executors.newScheduledThreadPool(5);
+        ScheduledExecutorService execService = Executors.newScheduledThreadPool(5);
 
         Runnable task = () -> {
 
             Cyclist c = new Cyclist(_cyclistsNames.toArray()[loop].toString(),CountTime());
-            ScheduledExecutorService
+
             _sortedCyclists.add(c);
             System.out.println("Zawodnik (" + _sortedCyclists.size() + ") ukończył wyścig: " + c._Surname + " " + c._Time + "s");
             logger.info("Zawodnik (" + _sortedCyclists.size() + ") ukończył wyścig: " + c._Surname + " " + c._Time + "s");
@@ -71,6 +70,8 @@ public class CyclingRace {
                 _cyclistsNames.add(uniqueList.get(new Random().nextInt(uniqueList.size()))
                 );
             }
+
+            logger.info("Pobrano listę zawodników");
         } catch (Exception ex)
         {
             ex.printStackTrace();
