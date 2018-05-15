@@ -4,7 +4,7 @@ public class Main
 
     public static void main(String[] args)
     {
-        PrintRuler(5,6);
+        PrintRuler(5,);
     }
 
     private static void PrintRuler(int units, int nesting)

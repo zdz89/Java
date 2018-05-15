@@ -29,7 +29,7 @@ public class Main {
         }
 
         try {
-            if (number<0 || input.charAt(0)=='0' || input.length() > 3)
+            if (number<0 || input.charAt(0) == '0' || input.length() > 3)
             {
                 throw new MyException("Moj wyjatek");
             }
@@ -39,25 +39,25 @@ public class Main {
             return;
         }
 
-        if (number==0) result="zero";
+        if (number == 0) result="zero";
 
         while (number>0)
         {
-            end=(number%10);
-            number/=10;
-            if ((j==0)&&(number%10!=1)) result = ones[end] + result;
-            if ((j==0)&&(number%10==1))
+            end = (number%10);
+            number /= 10;
+            if ((j==0) && (number % 10 != 1)) result = ones[end] + result;
+            if ((j==0) && (number % 10 == 1))
             {
                 result = teens[end] + result;
-                number/=10;
-                j+=2;
+                number /= 10;
+                j += 2;
                 continue;
             }
-            if (j==1) result = tens[end] + result;
-            if (j==2)
+            if (j == 1) result = tens[end] + result;
+            if (j == 2)
             {
                 result = hundreds[end] + result;
-                j=-1;
+                j = -1;
                 row++;
             }
             j++;

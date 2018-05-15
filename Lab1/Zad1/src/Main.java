@@ -9,15 +9,15 @@ public class Main {
 
         try {
             while (true) {
-                System.out.println("Wybierz konwersje liczby '0b1101_1011' (dziesiec | trzy | szesnascie):");
+                System.out.println("Wybierz konwersje liczby '0b1101_1011' (10 lub 3 lub 16):");
                 String line = scanner.nextLine();
 
                 switch(line){
-                    case "dziesiec": System.out.println("Dziesietny: " + i);
+                    case "10": System.out.println("Dziesietny: " + i);
                     break;
-                    case "trzy": System.out.println("Trojkowy: " + i.toString(i, 3));
+                    case "3": System.out.println("Trojkowy: " + i.toString(i, 3));
                     break;
-                    case "szesnascie": System.out.println("Szesnastkowy: " + i.toString(i, 16).toUpperCase());
+                    case "16": System.out.println("Szesnastkowy: " + i.toString(i, 16).toUpperCase());
                     break;
                     default: System.out.println("Nierozpoznana metoda konwersji");
                 }

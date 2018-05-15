@@ -40,11 +40,13 @@ public class CyclingRace {
             System.out.println("--------------------");
             loop++;
 
-            if(loop == 15)
+            if(loop == 15) {
+                execService.shutdown();
                 logger.info("Wyścig zakończony");
+            }
         };
 
-        ScheduledFuture f = execService.scheduleWithFixedDelay(task, 0, 4, TimeUnit.SECONDS);
+        ScheduledFuture f = execService.scheduleWithFixedDelay(task, 0, 1, TimeUnit.SECONDS);
     }
 
     private int CountTime() {

@@ -1,0 +1,72 @@
+maj 13, 2018 4:44:01 PM CyclingRace GetCyclists
+INFO: Pobrano listę zawodników
+maj 13, 2018 4:44:01 PM CyclingRace StartRace
+INFO: Wyścig rozpoczęty
+maj 13, 2018 4:44:01 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (1) ukończył wyścig: Binienda 250s
+maj 13, 2018 4:44:05 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (2) ukończył wyścig: Nastula 325s
+maj 13, 2018 4:44:09 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (3) ukończył wyścig: Krzyś 370s
+maj 13, 2018 4:44:13 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (4) ukończył wyścig: Wiszniowski 293s
+maj 13, 2018 4:44:17 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (5) ukończył wyścig: Szałowski 328s
+maj 13, 2018 4:44:21 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (6) ukończył wyścig: Makoś 270s
+maj 13, 2018 4:44:25 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (7) ukończył wyścig: Macuga 250s
+maj 13, 2018 4:44:29 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (8) ukończył wyścig: Ciastoń 279s
+maj 13, 2018 4:44:33 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (9) ukończył wyścig: Preuss 344s
+maj 13, 2018 4:44:37 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (10) ukończył wyścig: Ułamek 250s
+maj 13, 2018 4:44:41 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (11) ukończył wyścig: Stodolak 365s
+maj 13, 2018 4:44:45 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (12) ukończył wyścig: Cichy 250s
+maj 13, 2018 4:44:49 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (13) ukończył wyścig: Pogoda 250s
+maj 13, 2018 4:44:53 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (14) ukończył wyścig: Staśkiewicz 250s
+maj 13, 2018 4:44:57 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (15) ukończył wyścig: Pilorz 293s
+maj 13, 2018 4:44:57 PM CyclingRace lambda$StartRace$0
+INFO: Wyścig zakończony
+maj 13, 2018 4:45:21 PM CyclingRace GetCyclists
+INFO: Pobrano listę zawodników
+maj 13, 2018 4:45:21 PM CyclingRace StartRace
+INFO: Wyścig rozpoczęty
+maj 13, 2018 4:45:21 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (1) ukończył wyścig: Łydka 370s
+maj 13, 2018 4:45:22 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (2) ukończył wyścig: Wilczkowski 250s
+maj 13, 2018 4:45:23 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (3) ukończył wyścig: Białoń 370s
+maj 13, 2018 4:45:24 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (4) ukończył wyścig: Nijak 314s
+maj 13, 2018 4:45:25 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (5) ukończył wyścig: Michnowicz 278s
+maj 13, 2018 4:45:26 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (6) ukończył wyścig: Wojnarowicz 250s
+maj 13, 2018 4:45:27 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (7) ukończył wyścig: Kurpios 296s
+maj 13, 2018 4:45:28 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (8) ukończył wyścig: Maciejowski 370s
+maj 13, 2018 4:45:29 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (9) ukończył wyścig: Żądło 264s
+maj 13, 2018 4:45:30 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (10) ukończył wyścig: Porzucek 299s
+maj 13, 2018 4:45:31 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (11) ukończył wyścig: Szarkowski 250s
+maj 13, 2018 4:45:32 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (12) ukończył wyścig: Michoński 370s
+maj 13, 2018 4:45:33 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (13) ukończył wyścig: Żakieta 313s
+maj 13, 2018 4:45:34 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (14) ukończył wyścig: Gratkowski 370s
+maj 13, 2018 4:45:35 PM CyclingRace lambda$StartRace$0
+INFO: Zawodnik (15) ukończył wyścig: Jonderko 276s
+maj 13, 2018 4:45:35 PM CyclingRace lambda$StartRace$0
+INFO: Wyścig zakończony

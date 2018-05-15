@@ -19,7 +19,6 @@ public class Cyclist implements Comparable<Cyclist>
 
     @Override
     public int compareTo(Cyclist c) {
-        int y= this.getTime() - c.getTime();
         return this.getTime() - c.getTime();
     }
 }

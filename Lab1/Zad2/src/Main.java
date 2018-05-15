@@ -18,7 +18,7 @@ public class Main {
      */
     public static void main(String[] args) {
         String nrb = new String("86 1020 3916 0000 0502 0202 5161");
-        CheckNRB(nrb);
+        System.out.println(CheckNRB(nrb));
         //* @exception IOException On input error.
         //* @see IOException
     }
@@ -29,8 +29,8 @@ public class Main {
      * @param nrb Numer rachunku bankowego do sprawdzenia
      * @return boolean Zwraca prawda albo fałsz
      */
-    private static boolean CheckNRB(String nrb) {
-
+    private static boolean CheckNRB(String nrb)
+    {
         nrb = nrb.replaceAll("[^0-9]","");
 
         if(nrb.length() == 26)
