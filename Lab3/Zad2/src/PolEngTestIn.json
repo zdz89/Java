@@ -1,0 +1,78 @@
+[
+  {
+    "Pol": "krzyczeć",
+    "Eng": [
+      "shout",
+      "bluster",
+      "scream",
+      "yell",
+      "hollo"
+    ]
+  },
+  {
+    "Pol": "tulipan",
+    "Eng": [
+      "tulip"
+    ]
+  },
+  {
+    "Pol": "samochód",
+    "Eng": [
+      "car", 
+      "automobile", 
+      "auto", 
+      "motorcar"
+    ]
+  },
+  {
+    "Pol": "dezintegrator",
+    "Eng": [
+      "disintegrator"
+    ]
+  },
+  {
+    "Pol": "koło",
+    "Eng": [
+      "circle", 
+      "wheel", 
+      "ring"
+    ]
+  },
+  {
+    "Pol": "hulajnoga",
+    "Eng": [
+      "scooter"
+    ]
+  },
+  {
+    "Pol": "zależność",
+    "Eng": [
+      "dependence",
+      "relationship",
+      "dependency"
+    ]
+  },
+  {
+    "Pol": "płynny",
+    "Eng": [
+      "liquid",
+      "fluid",
+      "smooth",
+      "fluent"
+    ]
+  },
+  {
+    "Pol": "wspinaczka",
+    "Eng": [
+      "climbing"
+    ]
+  },
+  {
+    "Pol": "umysł",
+    "Eng": [
+      "mind",
+      "brain",
+      "intellect"
+    ]
+  }
+]
