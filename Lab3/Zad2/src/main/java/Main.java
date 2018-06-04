@@ -4,9 +4,5 @@ public class Main
     {
         PolEngTest polEngTest = new PolEngTest();
         polEngTest.Start();
-
-
-
-        //System.out.println(Arrays.toString(questions.toArray()));
     }
 }

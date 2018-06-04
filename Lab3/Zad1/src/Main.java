@@ -14,8 +14,9 @@ public class Main {
         //sortManager.fastSortStrings(collator, sortManager.getNames());
         //sortManager.fastSortStrings2(collator, sortManager.getNames());
 
-        //System.out.println("sortStrings: " + sortManager.sortStringsPerformance(collator));
+        System.out.println("sortStrings: " + sortManager.sortStringsPerformance(collator));
         System.out.println("fastSortStrings: " + sortManager.fastSortStringsPerformance(collator));
+        System.out.println("fastSortStrings2: " + sortManager.fastSortStrings2Performance(collator));
 
         //System.out.println("sortStrings: " + sortManager.countPerformance(collator, SortManager.Functions.sort));
         //System.out.println("fastSortStrings: " + sortManager.countPerformance(collator, SortManager.Functions.fastSort));

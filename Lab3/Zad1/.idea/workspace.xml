@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c6794f3-97d1-473c-85d4-c91dce633686" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SortManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Zad1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Zad1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Zad1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Zad1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Zad2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Zad2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Zad2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Zad2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Zad3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Zad3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Zad3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Zad3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Zad3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Zad3/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Zad4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Zad4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab1/Zad4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Zad4/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab2/Zad1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Zad1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab2/Zad1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Zad1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab2/Zad2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Zad2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab2/Zad2/src/CyclingRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Zad2/src/CyclingRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab2/Zad2/src/Cyclist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab2/Zad2/src/Cyclist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad2/src/PolEngTestOut.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad2/src/main/java/JsonHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad2/src/main/java/JsonHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad2/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad2/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad2/src/main/java/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad2/src/main/java/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad2/target/classes/JsonHelper$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad2/target/classes/JsonHelper$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad2/target/classes/JsonHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad2/target/classes/JsonHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad2/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad2/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zad4/src/test/java/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zad4/src/test/java/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Zad2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Zad2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab4/Zad3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab4/Zad3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,30 +29,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SortManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortManager.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1190">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#200#666#0" />
-                <element signature="e#708#946#0" />
-                <element signature="e#1044#1156#0" />
-                <element signature="e#2506#2507#0" expanded="true" />
-                <element signature="e#2569#2570#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file leaf-file-name="SortManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SortManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="242">
+              <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2506#2507#0" expanded="true" />
+                <element signature="e#2569#2570#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,7 +92,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -107,6 +105,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,14 +124,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zad4" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,31 +169,31 @@
       <updated>1526409376302</updated>
       <workItem from="1526409377974" duration="2000" />
       <workItem from="1526409396315" duration="6607000" />
+      <workItem from="1527422231491" duration="2259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6609000" />
+    <option name="totallyTimeSpent" value="8868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32896176" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32896176" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32896176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29112554" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16492693" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.122395836" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -210,6 +208,36 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32896176" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08229167" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32896176" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -223,6 +251,28 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SortManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2506#2507#0" expanded="true" />
+            <element signature="e#2569#2570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -233,15 +283,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SortManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        <state relative-caret-position="242">
+          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#200#666#0" />
-            <element signature="e#708#946#0" />
-            <element signature="e#1044#1156#0" />
             <element signature="e#2506#2507#0" expanded="true" />
             <element signature="e#2569#2570#0" expanded="true" />
           </folding>
@@ -250,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

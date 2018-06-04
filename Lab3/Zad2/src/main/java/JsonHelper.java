@@ -45,7 +45,6 @@ public class JsonHelper
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     public static List<Question> GetQuestions()
